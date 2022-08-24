@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Prajwal S</h1>
 <h3 align="center">A passionate Data Science enthusiast</h3>
 
-- 💻 Currently working as Programmer Analyst Trainee at Cognizant
+- ![image](https://user-images.githubusercontent.com/22153752/186423659-458d5bff-ed21-4a02-a91b-d1a8b2073380.png)
+ Currently working as Programmer Analyst Trainee at Cognizant
 
 - 🏫 Former graduate student from Dayananda Sagar University with a B.Tech degree in Computer Science and Engineering
 
