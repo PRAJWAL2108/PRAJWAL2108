@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Prajwal S</h1>
 <h3 align="center">A passionate Data Science enthusiast</h3>
 
+- 💻 Currently working as Programmer Analyst Trainee at Cognizant
+
+- 🏫 Former graduate student from Dayananda Sagar University with a B.Tech degree in Computer Science and Engineering
+
 - 🌱 I’m currently learning **Data Science, Machine Learning & Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PRAJWAL2108](https://github.com/PRAJWAL2108)
