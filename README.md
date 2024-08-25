@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Prajwal S</h1>
 <h3 align="center">A passionate Data Science enthusiast</h3>
 
-- 💻 Currently working as Programmer Analyst Trainee at Cognizant
+- 🏫 Currently pursuing a Master of Science in Data Science at The University of Arizona
 
-- 🏫 Former graduate student from Dayananda Sagar University with a B.Tech degree in Computer Science and Engineering
+- 💻 Former Programmer Analyst at Cognizant, Bengaluru, India
+ 
+- 🏫 Graduate student from Dayananda Sagar University with a B.Tech degree in Computer Science and Engineering
 
 - 🌱 I’m currently learning **Data Science, Machine Learning & Deep Learning**
 
